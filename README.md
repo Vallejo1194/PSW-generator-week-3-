@@ -1,6 +1,25 @@
 # PSW-generator-week-3-
 JS Challenge PS generator
 
+
+Password generetaror
+
+Never break your head again getting a secure password 
+
+you can choose from different  characters 
+(lowercase, numbers, upercase, special characters) 
+
+copy them right from the text box.
+
+Developed by David Vallejo 
+
+created with 
+
+CSS 
+JavaScript
+HTML5
+
+
 ![image](https://user-images.githubusercontent.com/104468646/178588450-6a2ab3da-11c0-4bb4-b580-33be94c551b9.png)
 
 
